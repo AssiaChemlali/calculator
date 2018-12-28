@@ -2,9 +2,9 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
-    "engines": {
+  "engines": {
     "npm": "5.6.0",
-    "node": "8.11.4h"
+    "node": "8.11.4"
   },
   "dependencies": {
     "mathjs": "^5.4.0",
