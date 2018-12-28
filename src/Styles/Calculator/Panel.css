@@ -1,0 +1,17 @@
+.Panel{
+    height: 300px;
+    text-align: right;
+    padding:20px;
+    letter-spacing: 2px;
+    color:#fff;
+ }
+ 
+ .Panel__resultat{
+     font-weight: 600;
+ }
+ .Panel__button{
+    border:0;
+    float:left;
+    color:#fff;
+    background-color: var(--main-color);
+ }

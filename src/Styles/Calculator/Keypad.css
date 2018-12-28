@@ -1,0 +1,22 @@
+.keypad{
+	margin: auto;
+	text-align: center;
+	width: 100%;
+}
+.keypad___btn{
+    border:0;
+	width: 23%;
+	height: 60px;
+	margin: 1%;
+	font-size: 25px;
+	font-weight: 500;
+	border-radius: 5px;	
+}
+.keypad___btn--nb{
+	background-color: #fff ;
+	color:#000
+}
+.keypad___btn--car{
+	background-color:var(--second-color);
+	color:#000;
+}

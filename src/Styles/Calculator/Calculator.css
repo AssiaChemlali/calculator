@@ -1,0 +1,15 @@
+.calculator{
+	border:10px solid var(--main-color);
+	background-color: var(--main-color);
+	margin: 50px auto;
+	width: 500px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+	
+}
+@media screen and (max-width:500px){
+	.calculator{
+		width: 95% !important;
+	}
+
+}
